@@ -44,6 +44,6 @@ app.*.map.json
 /android/app/release
 
 #C++ folders for other platforms
-linux/
-macos/
-windows/
+/linux
+/macos
+/windows
